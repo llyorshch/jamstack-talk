@@ -2,9 +2,12 @@
 marp: true
 title: A Jamstack Journey
 description: Hosting Marp slide deck on the web
-theme: uncover
 paginate: true
 _paginate: false
+theme: gaia
+_class: lead
+backgroundColor: #fff
+backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 ---
 
 <style>
