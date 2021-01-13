@@ -111,7 +111,7 @@ But also...
 
 ---
 
-# Cool. What next?
+# Cool. What's next?
 
 ![w:700 center](assets/jamstack_landscape.png)
 
