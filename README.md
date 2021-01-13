@@ -4,6 +4,8 @@ _by Llyorshch_
 
 Small presentation about my experience using Jamstack with Hugo, Netlify and a little bit of Github Actions.
 
+This presentation [is published with GitHub Pages](https://llyorshch.github.io/jamstack-talk/). 
+
 ## References
 
 - <https://w3techs.com/technologies/overview/content_management>
