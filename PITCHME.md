@@ -201,5 +201,6 @@ Demo Steps
 -->
 ---
 <!-- _class: lead -->
+<!-- _footer: https://github.com/llyorshch/jamstack-talk/ -->
 
 # Thanks!
