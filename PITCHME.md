@@ -185,22 +185,24 @@ Local environment: `hugo` command
 Demo Steps
 
 - Show the structure of the site
+  - Hugo config
   - content
   - Data
   - public
   - static
   - Template Layouts
   - Template plugins
-  - Hugo config
   - Netlify config
   - Github actions config
 - Local development
 - Netlify build and deploy
-- Github action build and deploy
 - Netlify CMS
+- Github action build and deploy
 -->
 ---
 <!-- _class: lead -->
 <!-- _footer: https://github.com/llyorshch/jamstack-talk/ -->
 
-# Thanks!
+[![](assets/dulzumat-logo-pie-de-pagina.png)](http://www.dulzumat.com)
+
+[![w:60](assets/Facebook_icon_2013.svg)](https://es-es.facebook.com/Dulzumat-107103074234058) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![w:60](assets/Instagram_AppIcon_Aug2017.png)](https://www.instagram.com/dulzumat/)
