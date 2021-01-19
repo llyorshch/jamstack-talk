@@ -40,6 +40,13 @@ jorge@ge.org.es
 ![w:600](assets/cunyao.gif)
 
 ---
+# No way! <!--fit-->
+--- 
+<!-- _class: lead -->
+
+Nope. Be kind. 🤌🏻
+
+---
 <!-- _class: lead -->
 # "I already have hosting"
 
@@ -74,7 +81,7 @@ Of course not
 
 # Enter Jamstack
 
-![w:900 center](assets/jamstack_acronym.jpg)
+![w:800 center](assets/gatsbycontentful2.png)
 
 ---
 # Jamstack Runtime Architecture
@@ -201,8 +208,8 @@ Demo Steps
 -->
 ---
 <!-- _class: lead -->
-<!-- _footer: https://github.com/llyorshch/jamstack-talk/ -->
+<!-- _footer:  -->
 
 [![](assets/dulzumat-logo-pie-de-pagina.png)](http://www.dulzumat.com)
 
-[![w:60](assets/Facebook_icon_2013.svg)](https://es-es.facebook.com/Dulzumat-107103074234058) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![w:60](assets/Instagram_AppIcon_Aug2017.png)](https://www.instagram.com/dulzumat/)
+[![w:60](assets/Facebook_icon_2013.svg)](https://es-es.facebook.com/Dulzumat-107103074234058)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![w:60](assets/Instagram_AppIcon_Aug2017.png)](https://www.instagram.com/dulzumat/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![w:80](assets/Octocat.png)](https://github.com/llyorshch/jamstack-talk/)
